@@ -1,0 +1,72 @@
+{
+  "book_id": "renaissance-italian-lyric-poetry-generational-conflict",
+  "title": "The Anvil of the Room",
+  "tagline": "In Renaissance Florence, a dutiful son must choose between his father's mercantile ledger and his brother's lyric poetry, where every word has a price and every verse is an act of rebellion.",
+  "target_words": 70792,
+  "actual_words": 70792,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Commerce of Art and Soul",
+    "Filial Duty Versus Poetic Truth",
+    "The Weight of Inheritance",
+    "The Silence Between Brothers"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ledger's Furious Script",
+      "words": 6435
+    },
+    {
+      "ch": 2,
+      "title": "A Jeweller's Fingers, A Brother's Silence",
+      "words": 6435
+    },
+    {
+      "ch": 3,
+      "title": "The Lion Summons a Verse",
+      "words": 6435
+    },
+    {
+      "ch": 4,
+      "title": "The Anvil of the Room",
+      "words": 6435
+    },
+    {
+      "ch": 5,
+      "title": "A Ghost Through the Feast",
+      "words": 6435
+    },
+    {
+      "ch": 6,
+      "title": "Thirty Florins, A Tiny Bell",
+      "words": 6435
+    },
+    {
+      "ch": 7,
+      "title": "The Road of Crushed Thyme",
+      "words": 6435
+    },
+    {
+      "ch": 8,
+      "title": "A Blank Page of Water",
+      "words": 6435
+    },
+    {
+      "ch": 9,
+      "title": "The Square After the Crowd",
+      "words": 6435
+    },
+    {
+      "ch": 10,
+      "title": "The First Entry",
+      "words": 6435
+    },
+    {
+      "ch": 11,
+      "title": "Three Distinct, Metallic Knocks",
+      "words": 6435
+    }
+  ]
+}
